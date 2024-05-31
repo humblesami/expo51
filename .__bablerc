@@ -1,0 +1,9 @@
+{
+    "plugins": [[
+        "module-resolver", {
+            "alias": {
+                "@": "./" // Replace with your project's source directory if different
+            }
+        }
+    ]]
+}
